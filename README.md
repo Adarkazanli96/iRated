@@ -6,6 +6,10 @@
 
 Ahmed Darkazanli, Ryan Ly, Vincent Truong
 
+## Project URL
+
+http://irated-frontend.s3-website-us-east-1.amazonaws.com/
+
 ## Project Description
 
 iRated is a three-tier, highly scalable web application that seeks to provide students with a prospective professor’s ratings before taking the course. Each professor in the database will have an overall rating comprised of reviews from previous students, each containing genuine insights about the overview of the course. With iRated, the uncertainty of choice will be minimal and will be able to help match up student learning styles with the teaching styles of professors.
